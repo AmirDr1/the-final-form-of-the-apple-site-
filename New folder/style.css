@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    direction: ltr;
+}
+.bg-background{
+    background-color: rgb(151, 151, 151);
+    text-decoration: none;
+    color: white;
+}
